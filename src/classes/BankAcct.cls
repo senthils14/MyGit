@@ -6,7 +6,7 @@ public class BankAcct {
 	Public void makeDeposit(Integer deposit){
 		Balance = Balance + deposit;
 	}
-	
+// Added by Senthil	
 	Public Integer getBalance(){
 		return balance;
 	}
