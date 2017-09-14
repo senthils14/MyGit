@@ -12,7 +12,7 @@ public Describer() {
 objectNames = initObjNames();
 fields = new List<Pair>();
 }
-// Populate SelectOption list -
+// Populate SelectOption list - Senthil
 
 // find all sObjects available in the organization
 
