@@ -7,6 +7,8 @@ public class BankAcct {
 		Balance = Balance + deposit;
 	}
 // Added by Senthil	
+	
+// chnages
 	Public Integer getBalance(){
 		return balance;
 	}
